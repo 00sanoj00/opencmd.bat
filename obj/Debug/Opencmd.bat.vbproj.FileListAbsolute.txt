@@ -1,0 +1,14 @@
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.Form1.resources
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.Resources.resources
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.vbproj.GenerateResource.Cache
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\bin\Debug\Opencmd.bat.exe
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\bin\Debug\Opencmd.bat.pdb
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\bin\Debug\Opencmd.bat.xml
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.exe
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.xml
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.pdb
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\bin\Debug\Opencmd.bat.exe.manifest
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\bin\Debug\Opencmd.bat.application
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.exe.manifest
+C:\Users\Sanoj\Documents\Visual Studio 2008\Projects\Opencmd.bat\Opencmd.bat\obj\Debug\Opencmd.bat.application
